@@ -1,0 +1,33 @@
+.total-container{
+    max-width: 600px;
+    width: 100%;
+    text-align: center;
+    border: 2px solid gray;
+    padding: 1rem;
+    border-radius: 10px;
+}
+
+.total{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.total h1{
+    
+}
+
+.total p{
+    color: green;
+    font-size: 25px;
+}
+
+.total-container button{
+    padding: 8px 12px;
+    font-size: 17px;
+    border: none;
+    border-radius: 5px;
+    background-color: brown;
+    color: #fff;
+    cursor: pointer;
+}

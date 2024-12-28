@@ -1,0 +1,27 @@
+.navbar{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 1rem;
+    background-color: blueviolet;
+    color: #fff;
+}
+
+
+.numberOfItem{
+    position: relative;
+}
+
+.number{
+    position:absolute;
+    left: 20px;
+    font-size: 17px;
+    top: -15px;
+    padding: 0.4rem .6rem;
+    background-color: rgb(60, 60, 60);
+    border-radius: 50%;
+}
+
+.icon{
+    font-size: 35px;
+}
